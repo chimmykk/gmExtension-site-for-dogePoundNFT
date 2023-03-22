@@ -6,7 +6,7 @@ export function PrivacyPolicy(){
       <PolicySection>
           <PolicyHeading>
             <Heading className="policy">GmAwoo Privacy Policy</Heading>
-          <p>Last updated: 2021-10-30</p>
+          <p>Last updated: 2023-03-23</p>
           </PolicyHeading>
 
           <PolicyText>
@@ -296,7 +296,7 @@ If you submit a request to stop selling your personal information, we will stop 
 
           <PolicyText>
               <TextM className="policy ">
-              This Privacy Policy was created for https://gmgmbot.com/ by PolicyMaker.io on 2021-10-29.
+              This Privacy Policy was created for https://gmgmbot.com/ by PolicyMaker.io on 2023-03-23.
               </TextM>
           </PolicyText>
       </PolicySection>
