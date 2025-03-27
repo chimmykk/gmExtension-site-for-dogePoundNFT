@@ -3,7 +3,7 @@ import { Heading, PolicySection, TextM, PolicyText, PolicyHeading } from "../sty
 
 export function PrivacyPolicy() {
     // Make sure to update this date whenever the policy changes
-    const lastUpdatedDate = "2024-07-27";
+    const lastUpdatedDate = "2025-03-27";
     const contactEmail = "johnlemonnft@dogepoundnft.com"; // Verify this email
 
     return (
