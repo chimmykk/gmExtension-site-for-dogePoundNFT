@@ -28,7 +28,7 @@ export function Main2(){
                 <WrapTeam>
                   <MemberDisplay>
                         <Upper>
-                          <PFP src="https://pbs.twimg.com/profile_images/1272865548703895553/9wePlRTH_400x400.jpg"/>
+                          <PFP src="https://pbs.twimg.com/profile_images/1902430469230346240/gEU4RFvd_400x400.jpg"/>
                           <Names>
                               <Heading className='member name'>Rilso</Heading>
                               <TextM className='member'>Developer</TextM>
@@ -39,7 +39,7 @@ export function Main2(){
 
                     <MemberDisplay>
                         <Upper>
-                          <PFP src="https://pbs.twimg.com/profile_images/1592636750249295873/XH7Nm_uV_400x400.jpg"/>
+                          <PFP src="https://pbs.twimg.com/profile_images/1678182592615464963/6A_iYrIt_400x400.jpg"/>
                           <Names>
                               <Heading className='member name'>DogePoundNFT</Heading>
                               <TextM className='member'>OG DOGE</TextM>
@@ -50,7 +50,7 @@ export function Main2(){
 
                     <MemberDisplay>
                         <Upper>
-                          <PFP src="https://pbs.twimg.com/profile_images/1638137270921494528/6-_N__l5_400x400.jpg"/>
+                          <PFP src="https://pbs.twimg.com/profile_images/1892578430912225281/JWybBeKL_400x400.jpg"/>
                           <Names>
                               <Heading className='member name'>Sem</Heading>
                               <TextM className='member'>Front-end Developer</TextM>
